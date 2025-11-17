@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+.envrc
+
+# Jupyter/notebooks
+.ipynb_checkpoints
+
+# Excel outputs
+outputs/*.xlsx
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+dist/
+
+# Secrets
+*.key
+*.pem
