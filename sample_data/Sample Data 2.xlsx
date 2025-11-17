@@ -1,0 +1,6 @@
+4. The generated workbook will be in `outputs/Trade_Analysis_Full_Workbook.xlsx`.
+
+## Notes
+- The produced workbook uses Excel formulas (SUMIFS, VLOOKUP, IF, MID, SEARCH, YEAR). No SQL or server-side code for analysis.
+- For submission, upload the generated `.xlsx` to Google Drive (anyone with link can view).
+
